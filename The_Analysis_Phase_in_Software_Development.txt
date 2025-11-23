@@ -291,3 +291,98 @@ User receives a password reset link within 5 minutes.
 Link expires after 24 hours.
 
 User can successfully set a new password and log in.
+-------------------------------------------------------------------------------------
+1. What is Story Point Estimation?
+
+Story points are a unit of measure used in Agile to estimate the effort required to complete a user story.
+They do not represent time but rather the complexity, risk, and effort involved in implementing a feature.
+
+Purpose:
+
+Helps teams plan sprints more realistically.
+
+Provides a relative measure of work rather than exact hours.
+
+Supports velocity tracking and forecasting future workload.
+
+2. Common Story Point Estimation Methods
+a) Planning Poker
+
+Process:
+
+Each team member receives a set of cards with values (e.g., Fibonacci sequence: 1, 2, 3, 5, 8, 13…).
+
+The Product Owner reads a user story.
+
+Each team member selects a card privately representing their estimate.
+
+All cards are revealed simultaneously.
+
+Differences are discussed, and the team re-estimates until consensus is reached.
+
+Advantages: Encourages collaboration, discussion, and shared understanding.
+
+b) T-Shirt Sizing
+
+Process:
+
+Stories are assigned relative sizes: XS, S, M, L, XL.
+
+Sizes represent effort and complexity, not exact hours.
+
+Useful in early stages or when detailed estimates are not yet feasible.
+
+Advantages: Simple, intuitive, and fast for initial backlog estimation.
+
+c) Dot Voting / Affinity Estimation
+
+Process:
+
+Team members place dots on stories to indicate relative effort or priority.
+
+Group stories with similar complexity together to create clusters.
+
+Advantages: Quick and visual; helps identify large or complex stories early.
+
+3. Weighting User Stories
+
+After estimating effort, user stories can be weighted to prioritize development based on:
+
+a) Complexity
+
+High complexity stories may require more time, resources, or coordination.
+
+Examples of complex features: multi-step workflows, integrations, or security-critical functionality.
+
+b) Priority
+
+Determined by business needs, urgency, or stakeholder input.
+
+High-priority stories should be scheduled earlier, even if complex.
+
+c) Business Value
+
+Measures the potential impact or value delivered to the user or organization.
+
+Low-effort, high-value stories are often selected first to maximize ROI.
+
+Combining Factors:
+
+Teams can use a weighted scoring approach combining complexity, priority, and value.
+
+Example:
+
+Weighted Score = (Business Value × Priority) ÷ Complexity
+
+
+Stories with higher scores are considered more valuable to complete sooner.
+
+4. Best Practices
+
+Always involve the entire development team in estimation.
+
+Use relative sizing rather than absolute time for better consistency.
+
+Regularly revisit estimates as requirements change or more information becomes available.
+
+Avoid overestimating precision; story points are guides, not exact measures.
