@@ -2,5 +2,5 @@
 
 
 
-!\[SDLC Phases Diagram](https://static.wixstatic.com/media/879dca\_dbbbcbf7e6564025a4afb533a1e6d622~mv2.png/v1/fill/w\_980,h\_530,al\_c,q\_90,usm\_0.66\_1.00\_0.01,enc\_auto/879dca\_dbbbcbf7e6564025a4afb533a1e6d622~mv2.png)
+![image alt](https://github.com/Sharouq2512/Analysis-in-Software-Development/blob/b00e1d19748be0fe8f86e1afed13a20101df005f/Phases-of-Agile-SDLC.webp)
 
