@@ -1,0 +1,99 @@
+1. Definition and Importance of the Analysis Phase
+
+The Analysis Phase is the second stage of the SDLC (after the planning phase) where the project requirements are gathered, studied, and defined in detail. The main goal is to understand what the software must do and how it should behave from both a business and technical perspective.
+
+Importance:
+
+Establishes a clear understanding between stakeholders and the development team.
+
+Reduces the risk of errors, misunderstandings, and scope creep.
+
+Forms the foundation for design, development, testing, and maintenance.
+
+Helps in identifying potential challenges and limitations early in the project.
+
+2. Sub-steps of the Analysis Phase
+
+The analysis phase typically involves several critical sub-steps:
+
+a) Requirements Gathering
+
+Collect all functional and non-functional requirements from stakeholders, end-users, and business analysts.
+
+Methods: interviews, questionnaires, observation, workshops, and document analysis.
+
+Output: preliminary list of system requirements.
+
+b) Requirements Analysis
+
+Examine and prioritize gathered requirements for feasibility, clarity, and relevance.
+
+Identify conflicts or redundancies.
+
+Use techniques like use cases, user stories, and workflow diagrams to visualize requirements.
+
+c) Feasibility Study
+
+Assess technical, operational, and financial feasibility.
+
+Determine if the project can be delivered within the constraints (budget, time, technology).
+
+Helps in decision-making whether to proceed, adjust, or terminate the project.
+
+d) Requirements Specification
+
+Formalize the analyzed requirements in a Software Requirements Specification (SRS) document.
+
+SRS includes: functional requirements, performance requirements, user interface requirements, and constraints.
+
+Acts as a reference for developers and testers.
+
+e) Requirement Validation
+
+Ensure all requirements are correct, complete, and agreed upon by stakeholders.
+
+Conduct reviews, walkthroughs, or prototyping to confirm understanding.
+
+3. Deliverables and Outcomes
+
+The main deliverables of the analysis phase include:
+
+Requirements Document (SRS): Detailed documentation of all system requirements.
+
+Feasibility Report: Assessment of technical, operational, and financial feasibility.
+
+Use Case Diagrams / User Stories: Visual representation of user interactions.
+
+Requirement Traceability Matrix (RTM): Maps each requirement to its corresponding design and testing component.
+
+Outcomes:
+
+Clear, unambiguous requirements that guide design and development.
+
+Identification of potential risks or obstacles early on.
+
+A baseline for project scope and estimates.
+
+4. Best Practices
+
+Engage all relevant stakeholders continuously.
+
+Use clear, unambiguous, and measurable requirements.
+
+Prioritize requirements based on business value and urgency.
+
+Use visual aids like flowcharts, mockups, and diagrams to improve understanding.
+
+Maintain a flexible approach to accommodate changes without scope creep.
+
+5. Common Challenges
+
+Miscommunication between stakeholders and development team.
+
+Changing or unclear requirements.
+
+Overlooking non-functional requirements like performance, security, and usability.
+
+Scope creep due to late additions or changing business needs.
+
+Insufficient time or resources for thorough analysis.
