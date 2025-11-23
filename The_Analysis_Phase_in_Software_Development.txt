@@ -204,3 +204,90 @@ Conduct regular refinement sessions (often mid-sprint or weekly).
 Ensure the backlog always has enough well-defined items for the next sprint.
 
 Keep stakeholders involved to maintain alignment with business goals.
+---------------------------------------------------------------------------
+
+1. Definition of User Stories
+
+A User Story is a short, simple description of a software feature from the end-user’s perspective. It captures what the user wants to do, why they want it, and helps guide the development team to build features that deliver real value.
+
+Purpose:
+
+Focuses on user needs rather than technical specifications.
+
+Encourages collaboration between stakeholders, product owners, and developers.
+
+Supports iterative development in Agile frameworks like Scrum.
+
+2. User Story Format
+
+The most common format for writing a user story is:
+
+“As a [type of user], I want [some goal] so that [some reason/benefit].”
+
+Example:
+
+As a registered user, I want to reset my password so that I can regain access to my account if I forget it.
+
+Components Explained:
+
+Role (As a…): Identifies who will benefit from this feature (user, admin, guest, etc.).
+
+Goal (I want…): Describes the specific action or functionality the user needs.
+
+Benefit (So that…): Explains why the user wants it or the value it provides.
+
+3. How to Write Effective User Stories
+
+Effective user stories are clear, concise, and actionable. Best practices include:
+
+INVEST Principle:
+
+Independent: Can be developed separately.
+
+Negotiable: Open for discussion, not rigid.
+
+Valuable: Delivers value to the user or business.
+
+Estimable: Can be reasonably sized or estimated.
+
+Small: Can be completed in a sprint.
+
+Testable: Has clear acceptance criteria to validate completion.
+
+Keep Stories Simple and Focused:
+
+Avoid complex or vague descriptions.
+
+Each story should cover one feature or action.
+
+Collaborate:
+
+Engage stakeholders, product owners, and developers when writing stories to ensure accuracy and clarity.
+
+Include Context and Examples:
+
+Add details or mockups if needed to avoid ambiguity.
+
+4. Acceptance Criteria and Their Importance
+
+Acceptance Criteria (AC) are conditions that a user story must meet to be considered complete. They provide a clear definition of “done” and guide testing.
+
+Importance:
+
+Ensures that the delivered feature meets the user’s expectations.
+
+Reduces misunderstandings between the development team and stakeholders.
+
+Helps QA and developers know what to test and verify.
+
+Enables clear validation and prevents scope creep.
+
+Example of Acceptance Criteria for the password reset story:
+
+User can request a password reset via email.
+
+User receives a password reset link within 5 minutes.
+
+Link expires after 24 hours.
+
+User can successfully set a new password and log in.
