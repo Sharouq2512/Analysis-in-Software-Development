@@ -291,3 +291,334 @@ User receives a password reset link within 5 minutes.
 Link expires after 24 hours.
 
 User can successfully set a new password and log in.
+-----------------------------------------------------------------------------------
+Banking System Product Backlog Example (Text Version)
+User Stories
+
+1. User Story: Account Creation
+
+As a customer
+
+I want to create a new bank account
+
+So that I can start banking with the bank
+
+Story Points: 5
+
+Priority: High
+
+Business Value: High
+
+Acceptance Criteria:
+
+Customer can fill registration form.
+
+Customer receives account confirmation email.
+
+Account is active in the system.
+
+2. User Story: Secure Login
+
+As a customer
+
+I want to login securely
+
+So that I can access my account information
+
+Story Points: 3
+
+Priority: High
+
+Business Value: High
+
+Acceptance Criteria:
+
+Customer can enter username and password.
+
+Login fails for invalid credentials.
+
+Login triggers 2FA if enabled.
+
+3. User Story: View Account Balance
+
+As a customer
+
+I want to view my account balance
+
+So that I know how much money I have
+
+Story Points: 2
+
+Priority: High
+
+Business Value: High
+
+Acceptance Criteria:
+
+Account balance is displayed correctly.
+
+Updates reflect recent transactions.
+
+4. User Story: Internal Transfers
+
+As a customer
+
+I want to transfer funds between my accounts
+
+So that I can manage my money efficiently
+
+Story Points: 5
+
+Priority: High
+
+Business Value: High
+
+Acceptance Criteria:
+
+Transfers between accounts succeed.
+
+Insufficient funds are handled with an error.
+
+Confirmation receipt is sent.
+
+5. User Story: External Transfers
+
+As a customer
+
+I want to transfer funds to another customer’s account
+
+So that I can pay bills or send money
+
+Story Points: 8
+
+Priority: High
+
+Business Value: High
+
+Acceptance Criteria:
+
+Transfers to other customers succeed.
+
+IBAN/account number validation is performed.
+
+Confirmation notification sent to both parties.
+
+6. User Story: Recurring Transfers
+
+As a customer
+
+I want to schedule recurring transfers
+
+So that I can automate payments
+
+Story Points: 8
+
+Priority: Medium
+
+Business Value: Medium
+
+Acceptance Criteria:
+
+Recurring transfers can be scheduled.
+
+Transfers execute at the correct date.
+
+User can modify or cancel schedule.
+
+7. User Story: Download Account Statements
+
+As a customer
+
+I want to download account statements
+
+So that I can review my transaction history
+
+Story Points: 5
+
+Priority: Medium
+
+Business Value: Medium
+
+Acceptance Criteria:
+
+Statements available in PDF and CSV.
+
+Can select date range.
+
+Accurate transaction details displayed.
+
+8. User Story: Online Loan Application
+
+As a customer
+
+I want to apply for a loan online
+
+So that I can get financial assistance without visiting the branch
+
+Story Points: 8
+
+Priority: Medium
+
+Business Value: High
+
+Acceptance Criteria:
+
+Loan application form captures required data.
+
+System validates eligibility.
+
+User receives status updates.
+
+9. User Story: Loan Repayment Calculator
+
+As a customer
+
+I want to calculate loan repayments
+
+So that I can plan my finances
+
+Story Points: 3
+
+Priority: Medium
+
+Business Value: Medium
+
+Acceptance Criteria:
+
+User can input loan amount, term, and interest rate.
+
+Monthly repayment amount is calculated.
+
+Schedule is accurate.
+
+10. User Story: Transaction Notifications
+
+As a customer
+
+I want to receive notifications for transactions
+
+So that I stay informed about account activity
+
+Story Points: 5
+
+Priority: High
+
+Business Value: High
+
+Acceptance Criteria:
+
+Notifications sent for debit/credit.
+
+Notifications sent via email/SMS/app.
+
+Users can enable/disable notifications.
+
+11. User Story: Update Personal Details
+
+As a customer
+
+I want to update my personal details
+
+So that my account information is current
+
+Story Points: 3
+
+Priority: Medium
+
+Business Value: Medium
+
+Acceptance Criteria:
+
+User can update name, contact info, and address.
+
+Changes are saved correctly.
+
+Confirmation notification is sent.
+
+12. User Story: View Loan Status and History
+
+As a customer
+
+I want to view loan status and history
+
+So that I can track repayments and pending approvals
+
+Story Points: 5
+
+Priority: Medium
+
+Business Value: Medium
+
+Acceptance Criteria:
+
+Display active loans and history.
+
+Show outstanding balance and due dates.
+
+Provide status updates.
+
+13. User Story: Approve or Reject Loans
+
+As a bank admin
+
+I want to approve or reject loan applications
+
+So that loans are managed efficiently
+
+Story Points: 8
+
+Priority: High
+
+Business Value: High
+
+Acceptance Criteria:
+
+Admin can see pending applications.
+
+Admin can approve or reject applications.
+
+Customer receives status notification.
+
+14. User Story: Generate Financial Reports
+
+As a bank admin
+
+I want to generate financial reports
+
+So that I can monitor bank performance
+
+Story Points: 8
+
+Priority: Medium
+
+Business Value: High
+
+Acceptance Criteria:
+
+Reports show deposits, withdrawals, loans.
+
+Reports can be filtered by date and account type.
+
+Export to PDF/CSV is supported.
+
+15. User Story: Manage Customer Accounts
+
+As a bank admin
+
+I want to manage customer accounts
+
+So that I can update or deactivate accounts as needed
+
+Story Points: 5
+
+Priority: Medium
+
+Business Value: Medium
+
+Acceptance Criteria:
+
+Admin can activate, deactivate, or modify accounts.
+
+Changes logged for auditing.
+
+Customers notified of changes.
