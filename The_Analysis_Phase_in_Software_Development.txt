@@ -97,3 +97,110 @@ Overlooking non-functional requirements like performance, security, and usabilit
 Scope creep due to late additions or changing business needs.
 
 Insufficient time or resources for thorough analysis.
+
+
+------------------------------------------------------------------------------------------
+1. What is a Product Backlog and Its Purpose
+
+A Product Backlog is a prioritized list of work items, features, enhancements, bug fixes, and technical tasks that a development team maintains for a product. It represents everything that could be done to improve or complete the product.
+
+Purpose:
+
+Serves as the single source of truth for all planned work.
+
+Helps the product owner and development team plan, prioritize, and track progress.
+
+Ensures the team focuses on delivering maximum value to the user.
+
+Provides flexibility to adapt to changing requirements or business priorities.
+
+2. How to Create and Structure a Product Backlog
+Creating a Product Backlog:
+
+Collect Requirements:
+
+Gather input from stakeholders, users, and business analysts.
+
+Include functional requirements (features) and non-functional requirements (performance, security, usability).
+
+Break Down Requirements:
+
+Divide larger features into smaller, manageable units called user stories or tasks.
+
+Each item should ideally be small enough to complete in a sprint.
+
+Define Acceptance Criteria:
+
+Specify conditions that must be met for each backlog item to be considered “done.”
+
+Estimate Effort:
+
+Assign rough estimates (story points, hours, or complexity) to help in planning.
+
+Structuring a Product Backlog:
+
+Items are typically ordered by priority, from most important to least.
+
+Backlog items often include:
+
+User stories: "As a [user], I want [feature] so that [benefit]."
+
+Bugs or defects
+
+Technical tasks or improvements
+
+Common hierarchy:
+
+Epics: Large features or themes.
+
+User Stories: Specific functionalities derived from epics.
+
+Tasks: Subdivided items required to complete a story.
+
+3. Backlog Prioritization Techniques
+
+Prioritization ensures the team works on items that deliver the most value first. Common techniques include:
+
+MoSCoW Method:
+
+Must Have, Should Have, Could Have, Won’t Have.
+
+Value vs. Effort / Cost-Benefit Analysis:
+
+Prioritize high-value, low-effort items first.
+
+Kano Model:
+
+Categorizes features into basic needs, performance features, and delighters.
+
+Weighted Shortest Job First (WSJF):
+
+Prioritize items that maximize business value relative to effort or risk.
+
+Stakeholder Voting / Business Priority:
+
+Engage stakeholders to rank items based on strategic importance.
+
+4. Backlog Refinement and Maintenance
+
+Backlog Refinement (or Grooming) is the ongoing process of reviewing and updating the backlog to keep it current, relevant, and actionable.
+
+Activities in Backlog Refinement:
+
+Break down large items into smaller tasks.
+
+Clarify requirements and acceptance criteria.
+
+Reassess priority based on changing business needs.
+
+Remove outdated or low-value items.
+
+Update estimates and dependencies.
+
+Maintenance Tips:
+
+Conduct regular refinement sessions (often mid-sprint or weekly).
+
+Ensure the backlog always has enough well-defined items for the next sprint.
+
+Keep stakeholders involved to maintain alignment with business goals.
